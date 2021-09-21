@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cs124reactlab/static/css/main.a617e044.chunk.css",
+    "main.js": "/cs124reactlab/static/js/main.39b7473f.chunk.js",
+    "main.js.map": "/cs124reactlab/static/js/main.39b7473f.chunk.js.map",
+    "runtime-main.js": "/cs124reactlab/static/js/runtime-main.03d18523.js",
+    "runtime-main.js.map": "/cs124reactlab/static/js/runtime-main.03d18523.js.map",
+    "static/js/2.94ccf70c.chunk.js": "/cs124reactlab/static/js/2.94ccf70c.chunk.js",
+    "static/js/2.94ccf70c.chunk.js.map": "/cs124reactlab/static/js/2.94ccf70c.chunk.js.map",
+    "static/js/3.52bc309f.chunk.js": "/cs124reactlab/static/js/3.52bc309f.chunk.js",
+    "static/js/3.52bc309f.chunk.js.map": "/cs124reactlab/static/js/3.52bc309f.chunk.js.map",
+    "index.html": "/cs124reactlab/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/cs124reactlab/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.94ccf70c.chunk.js.LICENSE.txt": "/cs124reactlab/static/js/2.94ccf70c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cs124reactlab/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03d18523.js",
+    "static/js/2.94ccf70c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.39b7473f.chunk.js"
+  ]
+}
